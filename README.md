@@ -1,2 +1,5 @@
-# meme-template
-An easily customizable meme template for use.
+# Meme Template
+
+![alt text](https://github.com/richyizhao/meme-template/blob/le-fish-preview?raw=true)
+
+Le Fish Pog
